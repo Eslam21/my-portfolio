@@ -1,4 +1,4 @@
-baseURL: "https://eslam21.github.io/my-portfolio/"
+baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
 title: "Eslam Mohamed"
 theme: hugo-profile
